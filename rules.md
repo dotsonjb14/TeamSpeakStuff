@@ -33,6 +33,22 @@ and require a unanimous result to permanent ban.
 
 No temporary bans will last longer than 30 days.
 
+## Chat Guidelines
+
+### NSFW in the chat
+
+Please mark any nsfw links with a NSFW prefix. such as this example.
+
+```
+NSFW https://tits.com/tits
+```
+
+Failing to do so more than once will result in escalating bans.
+
+### Racist/Prejudice Language
+
+These will not be tolerated, and if an admin catches you, it will result in an automatic escalating ban.
+
 ## Current list of admins
 
 [Admin list](https://github.com/dotsonjb14/TeamSpeakStuff/blob/master/admins.md)
