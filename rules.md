@@ -51,7 +51,7 @@ These will not be tolerated, and if an admin catches you, it will result in an a
 
 ## Current list of admins
 
-[Admin list](https://github.com/dotsonjb14/TeamSpeakStuff/blob/master/admins.md)
+[Admin list](admins.md)
 
 ## Becoming an admin
 
