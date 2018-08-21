@@ -10,6 +10,8 @@ in the lobby, and several other channels. They can become a *Member* by completi
 3. A vote will be held in which all existing *Members* and *Admins* will get a vote.
 4. If the vote passes they become a *Provisional Member*
 
+Guests can talk in any non-moderated channel.
+
 ## Provisional Members
 
 These have the same permissions as *Members* however they are subject to have their membership revoked by a simple majority
