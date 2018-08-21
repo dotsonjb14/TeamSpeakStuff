@@ -5,7 +5,7 @@
 * **size**:  
   t2.small
 * **region**:  
-  t2.small
+  us-west-2
 * **ram**:  
   2 GB
 * **cores**:  
