@@ -32,9 +32,7 @@ No temporary bans will last longer than 30 days.
 
 ## Current list of admins
 
-* Dotson
-* Solarfang
-* BDog
+[Admin list](https://github.com/dotsonjb14/TeamSpeakStuff/blob/master/admins.md)
 
 ## Becoming an admin
 
