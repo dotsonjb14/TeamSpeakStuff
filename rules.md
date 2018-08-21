@@ -22,7 +22,8 @@ vote that can be called at any time. This provisional period will last 2 months.
 *Members* can be downgraded to guest in the following fashion.
 
 1. 2 or more members come to an *Admin* with complaints.
-2. At the discretion of the *Admin* a vote can be held. With only *Admins* getting a vote.
+2. The *Admins* will have a sit down with the *Member* to hash out the complaints.
+2. If the issue continues, at the discretion of the *Admins* a vote can be held. With only *Admins* getting a vote.
 3. If the vote passes, the *Member* is downgraded to guest.
 
 ## Bans
